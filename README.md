@@ -8,7 +8,7 @@ FLutter Login and signup operations using firebase.
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/BigMarco254/FlutterTodo.git flutter_todo
+    $ git clone https://github.com/furkanksl/Login-Signup-w-Flutter.git flutter_login
     $ cd flutter_todo/
     $ flutter packages get
     $ flutter run
