@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064998462855",
+    "firebase_url": "https://personel-takip-a7816.firebaseio.com",
+    "project_id": "personel-takip-a7816",
+    "storage_bucket": "personel-takip-a7816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064998462855:android:11278e2aff95b02c789f22",
+        "android_client_info": {
+          "package_name": "com.yenihisarmedya.personel_takip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064998462855-88epfjslc6fkjjo021isrecs695q33st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2b0LLP3wFZ-mlIuTDTQ1232fKWGlIBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064998462855-88epfjslc6fkjjo021isrecs695q33st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
